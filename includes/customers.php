@@ -29,7 +29,7 @@ $customers = $db->globalSelect('customers',array());
 	  else : 
 	  ?>
       <tr>
-       	<td colspan="5"><?php echo "No Customers Found !" ;?> </td>
+       	<td colspan="5"><?php echo "No Customers Found !" ;?></td>
       </tr>
 	  <?php endif;
 	  ?>
