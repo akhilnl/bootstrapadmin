@@ -1,4 +1,5 @@
 <?php
+/*header file includes */
 require_once "includes".DIRECTORY_SEPARATOR."header.php";
 require_once "includes".DIRECTORY_SEPARATOR."dbclass.php";
 ?>
