@@ -1,10 +1,14 @@
-<?php
-require_once "includes".DIRECTORY_SEPARATOR."header.php";
-require_once "includes".DIRECTORY_SEPARATOR."dbclass.php";
-?>
-<div class="container">
+<!--heaer file -->
+<?php require_once "includes".DIRECTORY_SEPARATOR."header.php"; ?>
+<!--heaer file -->
+<!--- database connection file -->
+<?php require_once "includes".DIRECTORY_SEPARATOR."dbclass.php"; ?>
+<!--- database connection file -->
+<div class="row">
+<!-- customer list  -->
 <?php require_once "includes".DIRECTORY_SEPARATOR."customers.php" ;?>
+<!-- customer list  -->
 </div>
-<?php
-require_once "includes".DIRECTORY_SEPARATOR."footer.php" 
-?>
+<!--footer file -->
+<?php require_once "includes".DIRECTORY_SEPARATOR."footer.php";?>
+<!--footer file -->
