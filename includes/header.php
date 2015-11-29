@@ -19,14 +19,9 @@
   </head>
   <body>
   	<div class="container">
-    <div class="navbar-header">
-    	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-    	</button>
-        <a class="navbar-brand" rel="home" href="#" title="Buy Sell Rent Everyting">
-           <img style="max-width:100px; margin-top: -7px;" src="../assets/imgs/logo.png">
-        </a>
-</div>
+        <div class="row" style="border-bottom:thin solid">
+            <a href="#" title="Bootstrap Admin">
+               <img style="max-width:50px;" src="http://localhost/bootstrapadmin/assets/imgs/logo.png">
+            </a>
+            <span>Bootstrap Admin</span>
+        </div>
