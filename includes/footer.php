@@ -4,7 +4,7 @@
     <script src="assets/js/bootstrap.min.js"></script>
     <div class="row">
     	<div class="col-sm-12" style="text-align:center">
-            <h3>Footer</h3> 
+            <p>Copyright 2015 @Akhil</p> 
     	</div>
     </div>
     <!-- end container -->
