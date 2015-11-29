@@ -18,3 +18,9 @@
     <![endif]-->
   </head>
   <body>
+  	<div class="container">
+    <div class="row">
+    	<div class="col-sm-12" style="text-align:center">
+            <h3>Header</h3> 
+    	</div>
+    </div>
