@@ -19,8 +19,14 @@
   </head>
   <body>
   	<div class="container">
-    <div class="row">
-    	<div class="col-sm-12" style="text-align:center">
-            <h3>Header</h3> 
-    	</div>
-    </div>
+    <div class="navbar-header">
+    	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+    	</button>
+        <a class="navbar-brand" rel="home" href="#" title="Buy Sell Rent Everyting">
+           <img style="max-width:100px; margin-top: -7px;" src="../assets/imgs/logo.png">
+        </a>
+</div>
